@@ -3,4 +3,4 @@
 <h3 align="center">I’m currently learning JavaScript with <a href ="https://otus.ru">Otus</a></h3>
 
 
-[![codewars](https://www.codewars.com/users/Surakij/badges/large)](https://www.codewars.com/users/Surakij)
+<h1 align="center">[![codewars](https://www.codewars.com/users/Surakij/badges/large)](https://www.codewars.com/users/Surakij)</h1>
