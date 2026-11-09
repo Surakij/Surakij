@@ -1,6 +1,23 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sergey-kazhaev-31a3a3158/" target="_blank">Sergei</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Sergey Kazhaev
 
+I build browser-based tools for practical workflows. My featured project brings Maldives resort pricing and quotation into a single web app.
 
+[LinkedIn](https://www.linkedin.com/in/sergey-kazhaev-31a3a3158/) · [Codewars](https://www.codewars.com/users/Surakij)
 
-[![codewars](https://www.codewars.com/users/Surakij/badges/large)](https://www.codewars.com/users/Surakij)
+## Featured project
+
+### Maldives Hotel Quotation Calculator
+
+Build shareable resort quotes that account for split stays, meal plans, transfers, Green Tax, and sequential discounts. The app includes reference data for **178 Maldives resorts** and supports saved quotes with optional Google Drive sync.
+
+**Built with** JavaScript, HTML, and CSS. Browser regression tests use Playwright.
+
+[Open the calculator](https://surakij.github.io/hotel_calculator/) · [View the repository](https://github.com/Surakij/hotel_calculator)
+
+## More projects
+
+- [Game of Life](https://github.com/Surakij/Game_of_Life)
+- [Weather Application](https://github.com/Surakij/weather_application)
+- [Multipage Blog](https://github.com/Surakij/multipage_blog)
+
+[All repositories](https://github.com/Surakij?tab=repositories) · [GitHub activity](https://github.com/Surakij#js-contribution-activity)
