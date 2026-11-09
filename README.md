@@ -1,8 +1,8 @@
-# Sergey Kazhaev
+# Sergei Kazhaev
 
 I build browser-based tools for practical workflows. My featured project brings Maldives resort pricing and quotation into a single web app.
 
-[LinkedIn](https://www.linkedin.com/in/sergey-kazhaev-31a3a3158/) · [Codewars](https://www.codewars.com/users/Surakij)
+[LinkedIn](https://www.linkedin.com/in/sergei-kazhaev/) · [Codewars](https://www.codewars.com/users/Surakij)
 
 ## Featured project
 
